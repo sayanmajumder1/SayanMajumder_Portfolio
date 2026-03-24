@@ -546,7 +546,7 @@ const hobbiesData = [
         type: 'photography',
         category: 'photography',
         mediaType: 'image',
-        src: 'assets/roots/Image01.jpg',
+        src: 'assets/roots/P01.jpg',
         thumbnail: 'assets/hobbies/thumb1.jpg',
         title: 'Framing Emotions',
         description: 'Simple drawings and visual elements come together to express imagination and emotions, where each sketch frames a unique thought or moment. 🎨✨',
@@ -558,10 +558,10 @@ const hobbiesData = [
         tags: ['cityscape', 'night', 'travel'],
         // Add multiple images for slideshow
         gallery: [
-            'assets/roots/Image01.jpg',
-            'assets/roots/Image02.jpg',
-            'assets/roots/Image03.jpg',
-            'assets/roots/image04.jpg'
+            'assets/roots/P01.jpg',
+            'assets/roots/P02.jpg',
+            'assets/roots/P03.jpg',
+            'assets/roots/P04.jpg'
         ]
     },
     {
@@ -569,7 +569,7 @@ const hobbiesData = [
         type: 'photography',
         category: 'photography',
         mediaType: 'image',
-        src: 'assets/roots/Image13.jpg',
+        src: 'assets/roots/P13.jpg',
         thumbnail: 'assets/hobbies/thumb2.jpg',
         title: 'Micro World Chronicles',
         description: 'Exploring the intricate lives of nature’s smallest architects and wanderers, where every detail tells a story of survival, transformation, and balance.',
@@ -580,23 +580,23 @@ const hobbiesData = [
         featured: true,
         tags: ['landscape', 'mountains', 'nature'],
         gallery: [
-            'assets/roots/Image13.jpg',
-            'assets/roots/Image14.jpg',
-            'assets/roots/Image15.jpg',
-            'assets/roots/Image11.jpg',
-            'assets/roots/Image12.jpg',
-            'assets/roots/Image16.jpg',
-            'assets/roots/Image17.jpg',
-            'assets/roots/Image18.jpg',
-            'assets/roots/Image19.jpg',
-            'assets/roots/Image20.jpg',
-            'assets/roots/Image24.jpg',
-            'assets/roots/Image26.jpg',
-            'assets/roots/Image27.jpg',
-            'assets/roots/Image28.jpg',
-            'assets/roots/Image29.jpg',
-            'assets/roots/Image30.jpg',
-            'assets/roots/Image31.jpg',
+            'assets/roots/P13.jpg',
+            'assets/roots/P14.jpg',
+            'assets/roots/P15.jpg',
+            'assets/roots/P11.jpg',
+            'assets/roots/P12.jpg',
+            'assets/roots/P16.jpg',
+            'assets/roots/P17.jpg',
+            'assets/roots/P18.jpg',
+            'assets/roots/P19.jpg',
+            'assets/roots/P20.jpg',
+            'assets/roots/P24.jpg',
+            'assets/roots/P26.jpg',
+            'assets/roots/P27.jpg',
+            'assets/roots/P28.jpg',
+            'assets/roots/P29.jpg',
+            'assets/roots/P30.jpg',
+            'assets/roots/P31.jpg',
 
         ]
     },
@@ -605,7 +605,7 @@ const hobbiesData = [
         type: 'photography',
         category: 'photography',
         mediaType: 'image',
-        src: 'assets/roots/Image21.jpg',
+        src: 'assets/roots/P21.jpg',
         thumbnail: 'assets/hobbies/thumb3.jpg',
         title: 'Silence of the Night',
         description: 'A peaceful moment where the world slows down and darkness feels calm.',
@@ -616,9 +616,9 @@ const hobbiesData = [
         featured: false,
         tags: ['street', 'documentary', 'people'],
         gallery: [
-            'assets/roots/Image22.jpg',
-            'assets/roots/Image23.jpg',
-            'assets/roots/Image21.jpg'
+            'assets/roots/P22.jpg',
+            'assets/roots/P23.jpg',
+            'assets/roots/P21.jpg'
         ]
     },
  /*   {
